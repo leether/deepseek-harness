@@ -13,8 +13,9 @@ This is [@leether](https://github.com/leether)'s fork of [deepseek-ai/deepseek-h
 
 | 分支 | 内容 |
 |------|------|
-| `master` | 与上游 master 保持一致（干净，无本地改动） |
-| `fix/tool-runtime-scheduler-symbol` | 唯一的修复（一个 commit，可直接复用 / 开 PR） |
+| `master` | 与上游 master 保持一致（干净，无本地改动；2026-08-20 重置回 origin/master=rc.8） |
+| `fix/tool-runtime-scheduler-symbol` | 唯一的修复（一个 commit，可直接复用 / 开 PR；rc.8 上游仍未修复，继续有效） |
+| `fork-notes` | 本说明文件所在分支（2026-08-20 从 master 挪出，master 恢复纯镜像） |
 
 ## 修复分支 / The fix branch
 
